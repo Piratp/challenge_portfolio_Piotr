@@ -13,9 +13,9 @@ Mam nadzieję, że dzięki kursowi podtrzymam tę chęć do zmiany branży i w p
 Polega na
 
 
-* Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)<br>
+* Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? <br>
 
-* Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?<br>
+* Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie? <br>
 
 
 * Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).<br>
