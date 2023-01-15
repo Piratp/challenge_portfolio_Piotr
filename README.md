@@ -25,6 +25,7 @@ Aplikacja polega na
 
 <br>
 Funkcjonalności:
+
 * Logowanie do systemu
 * Wylogowanie z systemu
 * Zmiana języka
