@@ -15,6 +15,12 @@ Aplikacja polega na
 
 * Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? <br>
 
+  * Logowanie do systemu
+  * Wylogowanie z systemu
+  * Zmiana języka
+  * 
+
+
 * Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie? <br>
 
 
@@ -23,10 +29,7 @@ Aplikacja polega na
 
 * Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)<br>
   * Można wpisać ujemny wzrost
-<br>
-Funkcjonalności:
+  * Można podać ujemny wiek
+  * W telefonie można wpisać litery
+  * 
 
-* Logowanie do systemu
-* Wylogowanie z systemu
-* Zmiana języka
-* 
