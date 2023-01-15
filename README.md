@@ -10,7 +10,7 @@ Mam nadzieję, że dzięki kursowi podtrzymam tę chęć do zmiany branży i w p
 ## Subtask 3
 
 * Na czym polega ta aplikacja? Do czego służy? <br>
-Aplikacja polega na 
+Aplikacja służy do zbierania informacji na temat zawodników piłkarskich dla skautów
 
 
 * Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? <br>
@@ -18,7 +18,15 @@ Aplikacja polega na
   * Logowanie do systemu
   * Wylogowanie z systemu
   * Zmiana języka
-  * 
+  * Rozwijalna lista województw
+  * Możliwość wklejania linków z youtube
+  * Możliwość ściągnięcia danych w formacie CSV
+  * Możliwość wydruku
+  * Możliwość wyboru kolumn
+  * Możliwość filtrowawnia tabeli
+  * Możliwość sortowania kolumn
+  * Możwliwość powrotu na stronę główną
+  * Dodawanie nowych oraz edycja istniejących raportów meczowych
 
 
 * Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie? <br>
@@ -31,5 +39,6 @@ Aplikacja polega na
   * Można wpisać ujemny wzrost
   * Można podać ujemny wiek
   * W telefonie można wpisać litery
-  * 
+  * Czy przycisk "clear" nie powinien czyścić też pozostałych komórek?
+  
 
