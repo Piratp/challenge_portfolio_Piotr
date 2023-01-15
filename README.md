@@ -22,7 +22,7 @@ Aplikacja polega na
 
 
 * Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)<br>
-
+  * Można wpisać ujemny wzrost
 <br>
 Funkcjonalności:
 
