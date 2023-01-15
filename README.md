@@ -10,6 +10,7 @@ Mam nadzieję, że dzięki kursowi podtrzymam tę chęć do zmiany branży i w p
 ## Subtask 3
 
 * Na czym polega ta aplikacja? Do czego służy?
+Polega na
 * Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)
 * Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 * Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
