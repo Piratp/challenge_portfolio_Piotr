@@ -27,6 +27,7 @@ Aplikacja służy do zbierania informacji na temat zawodników piłkarskich dla 
   * Możliwość sortowania kolumn
   * Możwliwość powrotu na stronę główną
   * Dodawanie nowych oraz edycja istniejących raportów meczowych
+  * Podgląd ostatich aktywnośc
 
 
 * Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie? <br>
