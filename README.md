@@ -2,4 +2,6 @@
 <h2>Subtask 1</h2>
 <i> 9/10 punktów :) </i>
 
-### Subtask 2 </3>
+### Subtask 2
+
+Myślę o zmianie branży na IT. Nie wiedziałem na co się zdecydować przez ogrom dostępnych opcji, dlatego chcę zacząć od teoretycznie najłatwiejszej opcji wejścia do nowej branży. Dodatkowo wydaje mi się, że jestem osobą szczegółową oraz drobnostkową, co jest porządane na <br> tym stanowisku.
