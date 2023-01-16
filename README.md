@@ -13,7 +13,7 @@ Mam nadzieję, że dzięki kursowi podtrzymam tę chęć do zmiany branży i w p
 Aplikacja służy do zbierania przez skautów informacji na temat zawodników piłkarskich.
 
 
-* Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? <br><br>
+* Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? <br>
 
   * Logowanie do systemu
   * Wylogowanie z systemu
@@ -30,10 +30,10 @@ Aplikacja służy do zbierania przez skautów informacji na temat zawodników pi
   * Podgląd ostatich aktywnośc
 
 
-* Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie? <br>
+* Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie? <br><br>
 Jest prosta, w miarę przejrzysta. Myślę, że spełnia swoje zadanie.
 
-* Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).<br>
+* Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).<br><br>
 Dodałbym jeszcze "klikalne" zakładki na stronie głównej, czyli "ilość graczy", "ilość meczy" itp.
 Tak, od razu rzuca się w oczy możliwość dodania gracza.
 
