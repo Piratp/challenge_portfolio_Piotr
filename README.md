@@ -35,7 +35,7 @@ Jest prosta, w miarę przejrzysta. Myślę, że spełnia swoje zadanie.
 
 * Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).<br><br>
 Dodałbym jeszcze "klikalne" zakładki na stronie głównej, czyli "ilość graczy", "ilość meczy" itp.<br>
-Tak, od razu rzuca się w oczy możliwość dodania gracza.
+Natomiast tak, od razu rzuca się w oczy możliwość dodania gracza.
 
 * Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)<br>
   * Można wpisać ujemny wzrost
