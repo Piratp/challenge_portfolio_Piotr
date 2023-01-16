@@ -13,7 +13,7 @@ Mam nadzieję, że dzięki kursowi podtrzymam tę chęć do zmiany branży i w p
 Aplikacja służy do zbierania przez skautów informacji na temat zawodników piłkarskich.
 
 
-* Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? <br>
+* Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? <br><br>
 
   * Logowanie do systemu
   * Wylogowanie z systemu
