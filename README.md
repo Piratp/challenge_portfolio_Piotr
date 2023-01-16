@@ -10,7 +10,7 @@ Mam nadzieję, że dzięki kursowi podtrzymam tę chęć do zmiany branży i w p
 ## Subtask 3
 
 * Na czym polega ta aplikacja? Do czego służy? <br>
-Aplikacja służy do zbierania informacji na temat zawodników piłkarskich dla skautów
+Aplikacja służy do zbierania przez skautów informacji na temat zawodników piłkarskich.
 
 
 * Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? <br>
@@ -31,10 +31,11 @@ Aplikacja służy do zbierania informacji na temat zawodników piłkarskich dla 
 
 
 * Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie? <br>
-
+Jest prosta, w miarę przejrzysta. Myślę, że spełnia swoje zadanie.
 
 * Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).<br>
-
+Dodałbym jeszcze "klikalne" zakładki na stronie głównej, czyli "ilość graczy", "ilość meczy" itp.
+Tak, od razu rzuca się w oczy możliwość dodania gracza.
 
 * Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)<br>
   * Można wpisać ujemny wzrost
