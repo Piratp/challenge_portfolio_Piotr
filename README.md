@@ -47,4 +47,8 @@ Natomiast tak, od razu rzuca się w oczy możliwość dodania gracza.
 <h2> Subtask 3</h2>
 
 * Po co piszemy test case’y? <br>
- * tes
+* sprawdzenie danego oprogramowania
+* sprawdzenie czy w oprogramowaniu znajdują się wszystkie wymagane fukncjonalności
+* sprawdzenie czy aplikacja działa zgodnie z wcześniej założonymi oczekiwaniami
+* sprawdzenie czy podane linki działają oraz przenoszą nas do odpowiedniej zawartości
+* 
