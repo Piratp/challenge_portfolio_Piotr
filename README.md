@@ -43,4 +43,7 @@ Natomiast tak, od razu rzuca się w oczy możliwość dodania gracza.
   * W telefonie można wpisać litery
   * Czy przycisk "clear" nie powinien czyścić też pozostałych komórek?
   
+#Task 2
+<h2> Subtask 3</h2>
+
 
