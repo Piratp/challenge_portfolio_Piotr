@@ -47,5 +47,4 @@ Natomiast tak, od razu rzuca się w oczy możliwość dodania gracza.
 <h2> Subtask 3</h2>
 
 * Po co piszemy test case’y? <br>
-* 
-* *
+ * tes
