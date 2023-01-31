@@ -53,3 +53,5 @@ Natomiast tak, od razu rzuca się w oczy możliwość dodania gracza.
   * sprawdzenie czy podane linki działają oraz przenoszą nas do odpowiedniej zawartości
   
 <h1> Task 3 </h1>
+
+https://drive.google.com/drive/folders/1mkIPSn0hzK9n5sDDZoJ5_GwDy3Cgwry4?usp=sharing
