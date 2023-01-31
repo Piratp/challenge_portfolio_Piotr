@@ -51,3 +51,5 @@ Natomiast tak, od razu rzuca się w oczy możliwość dodania gracza.
   * sprawdzenie czy w oprogramowaniu znajdują się wszystkie wymagane fukncjonalności
   * sprawdzenie czy aplikacja działa zgodnie z wcześniej założonymi oczekiwaniami
   * sprawdzenie czy podane linki działają oraz przenoszą nas do odpowiedniej zawartości
+  
+<h1> Task 3 </h1>
