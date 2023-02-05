@@ -68,7 +68,7 @@ https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeo
 <h2> Subtask 3 </h2>
 <ol>
 <li> Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? </li> <br>
- Aplikacja służy do tworzenia i wystawiania ogłoszeń na całą Polskę. Możemy tutaj wystawić ogłoszenie sprzedaży, chęci kupna, wymiany czy wynajmu określonych towarów i usług. Pojawiają się tutaj także ofety pracy - pracodawcy jak i pracownicy poszukujący zatrudnienia. 
+ Aplikacja handlowa, służąca do tworzenia i wystawiania ogłoszeń na całą Polskę. Możemy tutaj wystawić ogłoszenie sprzedaży, chęci kupna, wymiany czy wynajmu określonych towarów i usług. Pojawiają się tutaj także ofety pracy. <br>
  <li> Kto ma być użytkownikiem końcowym aplikacji? </li><br>
  
  <li> Czy według Ciebie aplikacja jest user friendly? </li><br>
