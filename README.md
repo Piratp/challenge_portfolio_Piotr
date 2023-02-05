@@ -69,12 +69,16 @@ https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeo
 <ol>
 <li> Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? </li> <br>
  Aplikacja handlowa, służąca do tworzenia i wystawiania ogłoszeń na całą Polskę. Możemy tutaj wystawić ogłoszenie sprzedaży, chęci kupna, wymiany czy wynajmu określonych towarów i usług. Pojawiają się tutaj także ofety pracy.
- <br>
+ <br><br>
+ 
  <li> Kto ma być użytkownikiem końcowym aplikacji? </li><br>
+ 
  
  <li> Czy według Ciebie aplikacja jest user friendly? </li><br>
  
+ 
  <li> Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? </li><br>
+ Dodałbym jeszcze opcję zmiany języka, min. j. angielski.
  
  <li> Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </li><br>
  
