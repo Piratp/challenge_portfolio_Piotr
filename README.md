@@ -68,3 +68,7 @@ https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeo
 <h2> Subtask 3 </h2>
 <ol>
 <li> Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? </li>
+ <li> Kto ma być użytkownikiem końcowym aplikacji? </li>
+ <li> Czy według Ciebie aplikacja jest user friendly? </li>
+ <li> Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? </li>
+ <li> Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </li>
