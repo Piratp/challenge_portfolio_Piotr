@@ -68,8 +68,12 @@ https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeo
 <h2> Subtask 3 </h2>
 <ol>
 <li> Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? </li> <br>
+ Aplikacja służy do tworzenia i wystawiania ogłoszeń na całą Polskę. Możemy tutaj wystawić ogłoszenie sprzedaży, chęci kupna, wymiany czy wynajmu określonych towarów i usług. Pojawiają się tutaj także ofety pracy - pracodawcy jak i pracownicy poszukujący zatrudnienia. 
+ <li> Kto ma być użytkownikiem końcowym aplikacji? </li><br>
  
- <li> Kto ma być użytkownikiem końcowym aplikacji? </li>
- <li> Czy według Ciebie aplikacja jest user friendly? </li>
- <li> Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? </li>
- <li> Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </li>
+ <li> Czy według Ciebie aplikacja jest user friendly? </li><br>
+ 
+ <li> Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? </li><br>
+ 
+ <li> Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </li><br>
+ 
