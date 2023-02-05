@@ -78,7 +78,7 @@ https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeo
  
  
  <li> Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? </li><br>
- Dodałbym jeszcze opcję zmiany języka, min. j. angielski.
+ Dodałbym jeszcze opcję zmiany języka, min. j. angielski.<br><br>
  
  <li> Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </li><br>
  
