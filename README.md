@@ -55,3 +55,16 @@ Natomiast tak, od razu rzuca się w oczy możliwość dodania gracza.
 <h1> Task 3 </h1>
 
 https://drive.google.com/drive/folders/1mkIPSn0hzK9n5sDDZoJ5_GwDy3Cgwry4?usp=sharing
+
+<h1> Task 4 </h1>
+
+<h2> Subtask 1 </h2>
+
+https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeofNQ/edit?usp=share_link
+
+<h2> Subtask 2 </h2>
+https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeofNQ/edit?usp=share_link
+
+<h2> Subtask 3 </h2>
+<ol>
+<li> Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? </li>
