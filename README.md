@@ -75,7 +75,7 @@ https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeo
  Kupujący, sprzedający, wynajmujący oraz potencjalni najemcy, a także poszukujący i oferujący pracę.
  
  <li> Czy według Ciebie aplikacja jest user friendly? </li><br>
- Tak, jest user friendly.
+ Tak, jest user friendly. <br>
  
  <li> Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? </li><br>
  Dodałbym opcję zmiany języka, min. j. angielski.<br>
