@@ -71,17 +71,18 @@ https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeo
  Aplikacja handlowa, służąca do tworzenia i wystawiania ogłoszeń na całą Polskę. Możemy tutaj wystawić ogłoszenie sprzedaży, chęci kupna, wymiany czy wynajmu określonych towarów i usług. Pojawiają się tutaj także ofety pracy.
  <br><br>
  
- <li> Kto ma być użytkownikiem końcowym aplikacji? </li><br>
+ <li> <b>Kto ma być użytkownikiem końcowym aplikacji? </b></li><br>
  Kupujący, sprzedający, wynajmujący oraz potencjalni najemcy, a także poszukujący i oferujący pracę.
  
  <li> Czy według Ciebie aplikacja jest user friendly? </li><br>
- Tak, jest user friendly. <br>
+ Tak, jest user friendly. <br><br>
  
  <li> Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? </li><br>
  Dodałbym opcję zmiany języka, min. j. angielski.<br>
  Przydatną fukncją byłaby tzw. karuzela, czyli przesuwające się co jakiś określony czas ogłoszenia np. w obserwowanych w celu poprawy dynakimi aplikacji.
- Fajną rzeczą byłby też wyskakujący czat, jeśli apliakacja "zauważy", że użytkownik nie może znaleźć poszukiwanej funkcji aplikacji, np. przy tworzeniu profilu        kandydata.
+ Fajną rzeczą byłby też wyskakujący czat, jeśli apliakacja "zauważy", że użytkownik nie może znaleźć poszukiwanej funkcji aplikacji, np. przy tworzeniu profilu        kandydata.<br><br>
  
  
  <li> Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </li><br>
- 
+ Na pewno w przypadku aplikacji natywnej trzeba zwrócić uwagę na wygodę aplikacji, tzn. czy przyciski funkcjonalne (wstesz, zapisz itp.) są w zasięgu palca użytkownika.
+
