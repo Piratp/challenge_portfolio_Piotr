@@ -71,8 +71,8 @@ https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeo
  Aplikacja handlowa, służąca do tworzenia i wystawiania ogłoszeń na całą Polskę. Możemy tutaj wystawić ogłoszenie sprzedaży, chęci kupna, wymiany czy wynajmu określonych towarów i usług. Pojawiają się tutaj także ofety pracy.
  <br><br>
  
- <li> <b>Kto ma być użytkownikiem końcowym aplikacji? </b></li><br>
- Kupujący, sprzedający, wynajmujący oraz potencjalni najemcy, a także poszukujący i oferujący pracę.
+ <li> <b> Kto ma być użytkownikiem końcowym aplikacji? </b> </li><br>
+ Kupujący, sprzedający, wynajmujący oraz potencjalni najemcy, a także poszukujący i oferujący pracę.<br><br>
  
  <li> Czy według Ciebie aplikacja jest user friendly? </li><br>
  Tak, jest user friendly. <br><br>
