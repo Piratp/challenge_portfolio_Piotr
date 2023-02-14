@@ -89,9 +89,9 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 
  
  
-<h1> Task 5 </h1>
+#Task 5
  
-<h2> Subtask 1 </h2>
+##Subtask 1
  
 <ol>
 <li> SELECT </li>
