@@ -92,6 +92,7 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 <h1> Task 5 </h1>
  
 <h2> Subtask 1 </h2>
+ 
 <ol>
 <li> SELECT </li>
  <li> USE </li>
@@ -102,6 +103,7 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  <li> AS </li>
  <li> LIKE </li>
  
-  
+ <h2> Subtask 2 </h2>
+ 
     
  
