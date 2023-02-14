@@ -110,6 +110,10 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  
  2. Wyświetl film, który powstał w 2019 roku.
  
+ 
+ 
+ 
+ 
  3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
  
  4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.
