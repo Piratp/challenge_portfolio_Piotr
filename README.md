@@ -87,8 +87,7 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  <li><i>  Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </i></li><br>
  Na pewno w przypadku aplikacji natywnej trzeba zwrócić uwagę na wygodę aplikacji, tzn. czy przyciski funkcjonalne (wstesz, zapisz itp.) są w zasięgu palca użytkownika.
 
- 
- 
+
 # Task 5
  
 ## Subtask 1
