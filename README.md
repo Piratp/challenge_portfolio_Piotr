@@ -115,7 +115,8 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  
  
  3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
- 
+ ![image](https://user-images.githubusercontent.com/121132379/218864306-3f0f5e24-603c-423c-92b9-f9c503bbea34.png)
+
  4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.
  
  5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
