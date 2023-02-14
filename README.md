@@ -108,28 +108,28 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  
  1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname. <br><br>
  
- SELECT * FROM actors ORDER BY surname <br><br>
+  SELECT * FROM actors ORDER BY surname <br><br>
  
  ![image](https://user-images.githubusercontent.com/121132379/218864438-6a95de31-493f-47e9-9255-7915fba67734.png) <br>
 
  
  2. Wyświetl film, który powstał w 2019 roku.<br><br>
  
- SELECT * FROM `movies` WHERE year_of_production = 2019 <br><br>
+  SELECT * FROM `movies` WHERE year_of_production = 2019 <br><br>
  
  ![image](https://user-images.githubusercontent.com/121132379/218865645-f16b9034-509a-4bd5-9cb0-79180e7467bb.png) <br>
 
  
  3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem. <br><br>
  
- SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 AND 1999<br><br>
+  SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 AND 1999<br><br>
  
  ![image](https://user-images.githubusercontent.com/121132379/218865993-a99a0625-d573-4aa7-92f0-623d76322435.png) <br>
 
 
  4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.<br><br>
  
- SELECT title, price FROM `movies` WHERE price < 7 <br><br>
+  SELECT title, price FROM `movies` WHERE price < 7 <br><br>
  
  ![image](https://user-images.githubusercontent.com/121132379/218866382-5ab8c95a-1463-4ab6-90b5-d055217507b8.png) <br>
 
@@ -137,14 +137,14 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 
  5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.<br><br>
  
-SELECT * FROM `actors` WHERE actor_id > 3 AND actor_id <8 <br><br> 
+ SELECT * FROM `actors` WHERE actor_id > 3 AND actor_id <8 <br><br> 
  
  ![image](https://user-images.githubusercontent.com/121132379/218867785-e1f9d890-a4c5-46d9-86b0-5d0d84c06381.png) <br>
 
  
  6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.<br><br>
  
-SELECT * FROM `customers` WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6  <br><br>
+ SELECT * FROM `customers` WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6  <br><br>
  
  ![image](https://user-images.githubusercontent.com/121132379/218868225-f7719bf3-478f-44cd-bf35-57f5e9187993.png) <br>
 
