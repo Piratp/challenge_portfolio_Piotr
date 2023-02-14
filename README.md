@@ -91,4 +91,4 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  
  <h2> Subtask 1 </h2>
  <ol>
-  <li> SELECT </li>
+ <li> SELECT </li>
