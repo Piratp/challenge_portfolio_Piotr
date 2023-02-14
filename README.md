@@ -110,7 +110,8 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  <li> % </li>
  <li> AND </li>
  <li> OR </li>
-
+ <li> IS </li>
+ 
  
 <h2> Subtask 3 </h2>
  
@@ -159,19 +160,32 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  
  7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.<br><br>
  
- <br><br>
+ SELECT * FROM `customers` WHERE customer_id IN (1, 3, 5)<br><br>
+ 
+ ![image](https://user-images.githubusercontent.com/121132379/218870026-ce70c4cc-b55a-40ef-a2ee-27756890fc19.png) <br>
+ 
+
  
  8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.<br><br>
  
-  <br><br>
+ SELECT * FROM `actors` WHERE name LIKE 'An%' <br><br>
+ 
+ ![image](https://user-images.githubusercontent.com/121132379/218870535-0860a82d-cb83-45a7-8226-5aacf419ffc9.png) <br>
+
  
  9. Wyświetl dane klienta, który nie ma podanego adresu email.<br><br>
  
-  <br><br>
+ SELECT * FROM customers WHERE email IS null <br><br>
+ 
+ ![image](https://user-images.githubusercontent.com/121132379/218870880-dc6a8ffd-5fb3-427e-988d-64e13322e1a5.png) <br>
+
  
  10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.<br><br>
  
-  <br><br>
+ SELECT * FROM movies WHERE price > 9 AND movie_id BETWEEN 2 AND 8 <br><br>
+ 
+ ![image](https://user-images.githubusercontent.com/121132379/218871507-2241e360-cadc-4531-8272-829605f20f0b.png)
+
  
  
     
