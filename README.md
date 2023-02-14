@@ -106,16 +106,14 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  
 <h2> Subtask 3 </h2>
  
- 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+ 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname. <br>
+ ![image](https://user-images.githubusercontent.com/121132379/218864438-6a95de31-493f-47e9-9255-7915fba67734.png)
+
  
  2. Wyświetl film, który powstał w 2019 roku.
  
- 
- 
- 
- 
  3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
- ![image](https://user-images.githubusercontent.com/121132379/218864306-3f0f5e24-603c-423c-92b9-f9c503bbea34.png)
+ 
 
  4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.
  
