@@ -98,7 +98,10 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  <li> GO </li>
  <li> CREATE TABLE </li>
  <li> ORDER BY </li>
- <li> 
+ <li> WHERE </li>
+ <li> AS </li>
+ <li> LIKE </li>
+ 
   
     
  
