@@ -102,7 +102,9 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  <li> AS </li>
  <li> LIKE </li>
  
-<h2> Subtask 2 </h2>
+<h2> Subtask 3 </h2>
+ 
+ 1. 
  
     
  
