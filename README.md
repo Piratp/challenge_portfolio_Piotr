@@ -117,21 +117,21 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  
  1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname. <br><br>
  
-  SELECT * FROM actors ORDER BY surname <br><br>
+ <b>  SELECT * FROM actors ORDER BY surname </b><br><br>
  
  ![image](https://user-images.githubusercontent.com/121132379/218864438-6a95de31-493f-47e9-9255-7915fba67734.png) <br>
 
  
  2. Wyświetl film, który powstał w 2019 roku.<br><br>
  
-  SELECT * FROM `movies` WHERE year_of_production = 2019 <br><br>
+  SELECT * FROM movies WHERE year_of_production = 2019 <br><br>
  
  ![image](https://user-images.githubusercontent.com/121132379/218865645-f16b9034-509a-4bd5-9cb0-79180e7467bb.png) <br>
 
  
  3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem. <br><br>
  
-  SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 AND 1999<br><br>
+  SELECT * FROM movies WHERE year_of_production BETWEEN 1900 AND 1999<br><br>
  
  ![image](https://user-images.githubusercontent.com/121132379/218865993-a99a0625-d573-4aa7-92f0-623d76322435.png) <br>
 
