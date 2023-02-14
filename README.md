@@ -103,6 +103,14 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  <li> LIKE </li>
  <li> BETWEEN </li>
  <li> IN </li>
+ <li> = </li>
+ <li> < </li>
+ <li> > </li>
+ <li> <> </li>
+ <li> % </li>
+ <li> AND </li>
+ <li> OR </li>
+
  
 <h2> Subtask 3 </h2>
  
