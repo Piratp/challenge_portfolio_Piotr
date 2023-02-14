@@ -120,22 +120,34 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  ![image](https://user-images.githubusercontent.com/121132379/218865645-f16b9034-509a-4bd5-9cb0-79180e7467bb.png) <br>
 
  
- 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.<br><br>
+ 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem. <br><br>
  
- <br><br>
+ SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 AND 1999<br><br>
+ 
+ ![image](https://user-images.githubusercontent.com/121132379/218865993-a99a0625-d573-4aa7-92f0-623d76322435.png) <br>
+
 
  4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.<br><br>
  
- <br><br>
+ SELECT title, price FROM `movies` WHERE price < 7 <br><br>
  
+ ![image](https://user-images.githubusercontent.com/121132379/218866382-5ab8c95a-1463-4ab6-90b5-d055217507b8.png) <br>
+
  
+
  5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.<br><br>
  
-<br><br> 
+SELECT * FROM `actors` WHERE actor_id > 3 AND actor_id <8 <br><br> 
+ 
+ ![image](https://user-images.githubusercontent.com/121132379/218867785-e1f9d890-a4c5-46d9-86b0-5d0d84c06381.png) <br>
+
  
  6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.<br><br>
  
- <br><br>
+SELECT * FROM `customers` WHERE customer_id = 2 OR customer_id = 4 OR customer_id = 6  <br><br>
+ 
+ ![image](https://user-images.githubusercontent.com/121132379/218868225-f7719bf3-478f-44cd-bf35-57f5e9187993.png) <br>
+
  
  7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.<br><br>
  
@@ -143,15 +155,15 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  
  8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.<br><br>
  
- <br><br>
+  <br><br>
  
  9. Wyświetl dane klienta, który nie ma podanego adresu email.<br><br>
  
- <br><br>
+  <br><br>
  
  10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.<br><br>
  
- <br><br>
+  <br><br>
  
  
     
