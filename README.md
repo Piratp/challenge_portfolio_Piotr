@@ -69,7 +69,7 @@ https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeo
 <ol>
  <li> <i> Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? </i> </li> <br>
 Głównym celem aplikacji jest chęć zarobienia na niej. <br>
-Aplikacja handlowa, służąca do tworzenia i wystawiania ogłoszeń na całą Polskę. Możemy tutaj wystawić ogłoszenie sprzedaży, chęci kupna, wymiany czy wynajmu określonych towarów i usług. Pojawiają się tutaj także ofety pracy.
+Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania ogłoszeń na całą Polskę. Możemy tutaj wystawić ogłoszenie sprzedaży, chęci kupna, wymiany czy wynajmu określonych towarów i usług. Pojawiają się tutaj także ofety pracy.
  <br><br>
  
  <li> <i> Kto ma być użytkownikiem końcowym aplikacji? </i> </li><br>
@@ -87,3 +87,8 @@ Aplikacja handlowa, służąca do tworzenia i wystawiania ogłoszeń na całą P
  <li><i>  Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </i></li><br>
  Na pewno w przypadku aplikacji natywnej trzeba zwrócić uwagę na wygodę aplikacji, tzn. czy przyciski funkcjonalne (wstesz, zapisz itp.) są w zasięgu palca użytkownika.
 
+ <h1> Task 5 </h1>
+ 
+ <h2> Subtask 1 </h2>
+ <ol>
+  <li> SELECT </li>
