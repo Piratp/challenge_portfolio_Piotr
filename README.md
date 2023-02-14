@@ -105,6 +105,11 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 <h2> Subtask 3 </h2>
  
  1. 
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
  
     
  
