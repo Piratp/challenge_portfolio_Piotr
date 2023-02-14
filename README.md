@@ -89,8 +89,16 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 
  
  
- <h1> Task 5 </h1>
+<h1> Task 5 </h1>
  
- <h2> Subtask 1 </h2>
- <ol>
- <li> SELECT </li>
+<h2> Subtask 1 </h2>
+<ol>
+<li> SELECT </li>
+ <li> USE </li>
+ <li> GO </li>
+ <li> CREATE TABLE </li>
+ <li> ORDER BY </li>
+ <li> 
+  
+    
+ 
