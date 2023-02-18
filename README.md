@@ -187,5 +187,7 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 
  
  
-    
+# Task 6
+
+## Subtask 1
  
