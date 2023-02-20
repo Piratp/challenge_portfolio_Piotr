@@ -199,10 +199,24 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej. <br><br>
+   
+   <i> SELECT * FROM customers JOIN sale on customers.customer_id = sale.customer_id WHERE movie_id = 4; </i> <br><br>
+   
+   ![image](https://user-images.githubusercontent.com/121132379/220168942-1afc3882-ea2d-4f6e-9bf4-0afa4832c8a0.png) <br>
+
  
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com <br><br>
+   
+   <i> UPDATE customers SET email = 'pati@mail.com' WHERE name = 'Patrycja'</i> <br><br>
+   
+   ![image](https://user-images.githubusercontent.com/121132379/220170451-f815daba-c7c9-421f-b9a0-cebb9cd78e6e.png)<br>
+
 
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia). <br><br>
+   
+   <i>  </i> <br><br>
+   
+   <br>
 
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag <br><br>
    
