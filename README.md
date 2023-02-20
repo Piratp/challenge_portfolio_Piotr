@@ -192,7 +192,12 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 ## Subtask 1
  
 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd <br><br>
-   
+
+<i> UPDATE customers SET surname = 'Miler' WHERE customer_id = 3; </i> <br><br>
+
+![image](https://user-images.githubusercontent.com/121132379/220164792-e1cf4bfe-9322-4901-9c57-e2af97132509.png) <br>
+
+
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej. <br><br>
  
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com <br><br>
