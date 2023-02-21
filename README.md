@@ -114,12 +114,12 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  
  
 <h2> Subtask 3 </h2>
- 
- * Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname. <br><br>
+ <ol>
+<li> Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname. <br><br>
  
  <i>  SELECT * FROM actors ORDER BY surname </i><br><br>
  
- ![image](https://user-images.githubusercontent.com/121132379/218864438-6a95de31-493f-47e9-9255-7915fba67734.png) <br>
+ ![image](https://user-images.githubusercontent.com/121132379/218864438-6a95de31-493f-47e9-9255-7915fba67734.png) <br></li>
 
  
  * Wyświetl film, który powstał w 2019 roku.<br><br>
