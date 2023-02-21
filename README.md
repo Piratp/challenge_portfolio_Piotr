@@ -214,15 +214,16 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia). <br><br>
    
-   <i>  </i> <br><br>
+   <i> SELECT name, surname, title FROM customers INNER JOIN sale ON customers.customer_id = sale.customer_id INNER JOIN movies ON sale.movie_id = movies.movie_id </i> <br><br>
    
-   <br>
+  ![image](https://user-images.githubusercontent.com/121132379/220383282-c5ec0823-6cf3-4f24-9322-acd050a6b3aa.png)  <br>
 
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag <br><br>
    
-   <i>  </i> <br><br>
+   <i> ALTER TABLE customers ADD COLUMN pseudonym VARCHAR (100) <br>
+   UPDATE customers SET pseudonym = CONCAT (LEFT(name,2), RIGHT(surname,1)) </i> <br><br>
    
-   <br>
+  ![image](https://user-images.githubusercontent.com/121132379/220403316-b1ac0cea-adda-45bb-9202-3d19b489d49a.png) <br>
    
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały. <br><br>
    
@@ -250,7 +251,7 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
    
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa <br><br>
  
-   <i>  </i> <br><br>
+   <i> INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa') </i> <br><br>
    
-   <br>
+   ![image](https://user-images.githubusercontent.com/121132379/220407247-7cce91d5-88a5-4160-8e26-397c9496dc48.png) <br>
    
