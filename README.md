@@ -267,6 +267,5 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 
 ## Subtask 3
 
-https://github.com/Piratp/Portfolio
-
+https://github.com/Piratp/Portfolio/blob/main/README.md
    
