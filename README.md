@@ -244,9 +244,9 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
    
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał. <br><br>
     
-   <i>  </i> <br><br>
+   <i>  SELECT name, surname, title from actors INNER JOIN cast ON cast.actor_id = actors.actor_id INNER JOIN movies ON movies.movie_id = cast.movie_id where actors.actor_id =4</i> <br><br>
    
-   <br>
+ ![image](https://user-images.githubusercontent.com/121132379/220381932-648adfa2-f69b-4375-9ab0-18894709e468.png)   <br>
    
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa <br><br>
  
