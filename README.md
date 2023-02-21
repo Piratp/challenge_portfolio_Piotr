@@ -263,7 +263,7 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
    
 ## Subtask 2
 
-
+11/15, do poprawy :confused:
 
 ## Subtask 3
 
