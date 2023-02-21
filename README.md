@@ -226,15 +226,16 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
    
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały. <br><br>
    
-   <i>  </i> <br><br>
+   <i> SELECT DISTINCT title FROM sale JOIN movies on sale.movie_id = movies.movie_id </i> <br><br>
    
-   <br>
+  ![image](https://user-images.githubusercontent.com/121132379/220339584-a899d903-44db-4319-865b-cd083af7608a.png)  <br>
    
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION) <br><br>
     
-   <i>  </i> <br><br>
+   <i> select name FROM actors UNION SELECT name FROM customers ORDER by name </i> <br><br>
    
-   <br>
+   ![image](https://user-images.githubusercontent.com/121132379/220342403-1e445c66-eea8-4cc7-868c-458d8360703f.png)
+<br>
    
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie). <br><br>
     
