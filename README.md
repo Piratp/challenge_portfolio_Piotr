@@ -232,16 +232,15 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
    
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION) <br><br>
     
-   <i> select name FROM actors UNION SELECT name FROM customers ORDER by name </i> <br><br>
+   <i> SELECT name FROM actors UNION SELECT name FROM customers ORDER by name </i> <br><br>
    
-   ![image](https://user-images.githubusercontent.com/121132379/220342403-1e445c66-eea8-4cc7-868c-458d8360703f.png)
-<br>
+   ![image](https://user-images.githubusercontent.com/121132379/220342403-1e445c66-eea8-4cc7-868c-458d8360703f.png) <br>
    
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie). <br><br>
     
-   <i>  </i> <br><br>
+   <i> SELECT movie_id, title, year_of_production, price, price + 2.5 AS new_price FROM movies WHERE year_of_production >2000 </i> <br><br>
    
-   <br>
+ ![image](https://user-images.githubusercontent.com/121132379/220346653-a9652a0c-7726-465b-ade4-e9445876d53d.png)  <br>
    
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał. <br><br>
     
