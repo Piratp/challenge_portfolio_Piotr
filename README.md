@@ -220,12 +220,37 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag <br><br>
    
+   <i>  </i> <br><br>
+   
+   <br>
+   
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały. <br><br>
    
+   <i>  </i> <br><br>
+   
+   <br>
+   
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION) <br><br>
+    
+   <i>  </i> <br><br>
+   
+   <br>
    
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie). <br><br>
+    
+   <i>  </i> <br><br>
+   
+   <br>
    
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał. <br><br>
+    
+   <i>  </i> <br><br>
+   
+   <br>
    
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa <br><br>
+ 
+   <i>  </i> <br><br>
+   
+   <br>
+   
