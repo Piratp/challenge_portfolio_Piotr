@@ -187,9 +187,15 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 
  
  
+ 
+ 
+ 
+ 
 # Task 6
 
 ## Subtask 1
+
+
  
 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd <br><br>
 
@@ -254,4 +260,13 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
    <i> INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa') </i> <br><br>
    
    ![image](https://user-images.githubusercontent.com/121132379/220407247-7cce91d5-88a5-4160-8e26-397c9496dc48.png) <br>
+   
+## Subtask 2
+
+
+
+## Subtask 3
+
+https://github.com/Piratp/Portfolio
+
    
