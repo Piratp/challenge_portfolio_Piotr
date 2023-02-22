@@ -206,9 +206,9 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej. <br><br>
    
-   <i> SELECT * FROM customers JOIN sale on customers.customer_id = sale.customer_id WHERE movie_id = 4; </i> <br><br>
+   <i> SELECT customers.name, customers.email FROM customers JOIN sale ON customers.customer_id = sale.customer_id WHERE movie_id = 4 </i> <br><br>
    
-   ![image](https://user-images.githubusercontent.com/121132379/220168942-1afc3882-ea2d-4f6e-9bf4-0afa4832c8a0.png) <br>
+   ![image](https://user-images.githubusercontent.com/121132379/220620571-f3386c21-eae9-4c08-a8ac-812e94776123.png) <br>
 
  
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com <br><br>
