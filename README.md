@@ -220,7 +220,7 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
 
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia). <br><br>
    
-   <i> SELECT name, surname, title FROM customers INNER JOIN sale ON customers.customer_id = sale.customer_id INNER JOIN movies ON sale.movie_id = movies.movie_id </i> <br><br>
+   <i> SELECT customers.name, customers.surname, movies.title FROM customers INNER JOIN sale ON customers.customer_id = sale.customer_id INNER JOIN movies ON movies.movie_id = sale.movie_id </i> <br><br>
    
   ![image](https://user-images.githubusercontent.com/121132379/220383282-c5ec0823-6cf3-4f24-9322-acd050a6b3aa.png)  <br>
 
