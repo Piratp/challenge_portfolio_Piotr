@@ -245,9 +245,9 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
    
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie). <br><br>
     
-   <i> SELECT movie_id, title, year_of_production, price, price + 2.5 AS new_price FROM movies WHERE year_of_production >2000 </i> <br><br>
+   <i> UPDATE movies SET price = price +2.5 WHERE year_of_production > 2000 </i> <br><br>
    
- ![image](https://user-images.githubusercontent.com/121132379/220346653-a9652a0c-7726-465b-ade4-e9445876d53d.png)  <br>
+![image](https://user-images.githubusercontent.com/121132379/220617671-f55d22c7-0052-4ae5-998e-eb6df4738fae.png) <br>
    
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał. <br><br>
     
