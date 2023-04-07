@@ -66,4 +66,27 @@ https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeo
 https://docs.google.com/spreadsheets/d/1hAifpGW5oRbkTJNaqD8NBT2tYIjGNixMpxtnXWeofNQ/edit?usp=share_link
 
 
+<h2> Subtask 3 </h2>
+<ol>
+ <li> <i> Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? </i> </li> <br>
+Głównym celem aplikacji jest chęć zarobienia na niej. <br>
+Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania ogłoszeń na całą Polskę. Możemy tutaj wystawić ogłoszenie sprzedaży, chęci kupna, wymiany czy wynajmu określonych towarów i usług. Pojawiają się tutaj także ofety pracy.
+ <br><br>
+ 
+ <li> <i> Kto ma być użytkownikiem końcowym aplikacji? </i> </li><br>
+ Kupujący, sprzedający, wynajmujący oraz potencjalni najemcy, a także poszukujący i oferujący pracę.<br><br>
+ 
+ <li> <i> Czy według Ciebie aplikacja jest user friendly? </i> </li><br>
+ Tak, jest user friendly. <br><br>
+ 
+ <li> <i> Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? </i></li><br>
+ Dodałbym opcję zmiany języka, min. j. angielski.<br>
+ Przydatną funkcją byłaby tzw. karuzela, czyli przesuwające się co jakiś określony czas ogłoszenia np. w obserwowanych w celu poprawy dynakimi aplikacji. <br>
+ Fajną rzeczą byłby też wyskakujący czat, jeśli aplikacja "zauważy", że użytkownik nie może znaleźć poszukiwanej funkcji aplikacji, np. przy tworzeniu profilu         kandydata.<br><br>
+ 
+ 
+ <li><i>  Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </i></li><br>
+ Na pewno w przypadku aplikacji natywnej trzeba zwrócić uwagę na wygodę aplikacji, tzn. czy przyciski funkcjonalne (wstesz, zapisz itp.) są w zasięgu palca użytkownika.
+
 # Task 5
+
