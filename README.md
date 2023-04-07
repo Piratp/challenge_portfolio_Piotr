@@ -92,7 +92,6 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  
 ## Subtask 1
  
-<ol>
 <li> SELECT </li>
  <li> USE </li>
  <li> GO </li>
