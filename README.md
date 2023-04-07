@@ -80,8 +80,8 @@ Dodatkowo, jest to aplikacja handlowa, służąca do tworzenia i wystawiania og�
  
  <li> <i> Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? </i></li><br>
  Dodałbym opcję zmiany języka, min. j. angielski.<br>
- Przydatną fukncją byłaby tzw. karuzela, czyli przesuwające się co jakiś określony czas ogłoszenia np. w obserwowanych w celu poprawy dynakimi aplikacji.
- Fajną rzeczą byłby też wyskakujący czat, jeśli apliakacja "zauważy", że użytkownik nie może znaleźć poszukiwanej funkcji aplikacji, np. przy tworzeniu profilu        kandydata.<br><br>
+ Przydatną funkcją byłaby tzw. karuzela, czyli przesuwające się co jakiś określony czas ogłoszenia np. w obserwowanych w celu poprawy dynakimi aplikacji.
+ Fajną rzeczą byłby też wyskakujący czat, jeśli apliakacja "zauważy", że użytkownik nie może znaleźć poszukiwanej funkcji aplikacji, np. przy tworzeniu profilu         kandydata.<br><br>
  
  
  <li><i>  Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? </i></li><br>
